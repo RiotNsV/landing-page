@@ -97,7 +97,7 @@ img {
     color: #E5E7EB;
     padding-right: 180px;
 }
-
+.button
 button {
     background-color: #3882F6;
     border-radius: 15px;
@@ -149,5 +149,45 @@ img {
     font-size: 36px;
     font-weight: 300;
     color: #1F2937;
-    padding: 100px 500px 100px 500px;
+    padding: 100px 400px 100px 400px;
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+    font-weight: bold;
+    font-size: 22px;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+    background-color: #3882F6;
+    margin: 100px 300px 100px 300px;
+    border-radius: 15px;
+    gap: 250px;
+}
+
+.box-text {
+    display: flex;
+    flex-direction: column;
+    color: #E5E7EB;
+}
+
+h3 {
+    color: white;
+}
+
+.button2
+button {
+    background-color: #3882F6;
+    border-radius: 15px;
+    color: white;
+    font-size: large;
+    width: 150px;
+    height: 50px;
+    font-weight: bold;
+    margin-top: 10px;
+    border: solid white;
+    margin-top: 35px;
 }
