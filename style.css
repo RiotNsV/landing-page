@@ -176,6 +176,7 @@ img {
 
 h3 {
     color: white;
+    margin-bottom: 0;
 }
 
 .button2
@@ -189,5 +190,5 @@ button {
     font-weight: bold;
     margin-top: 10px;
     border: solid white;
-    margin-top: 35px;
+    margin: 20px;
 }
